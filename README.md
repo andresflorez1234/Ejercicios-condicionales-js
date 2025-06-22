@@ -29,4 +29,4 @@ Cada archivo es independiente y aborda un escenario cotidiano diferente.
 Puedes clonar este repositorio con:
 
 ```bash
-git clone https://github.com/tu_usuario/ejercicios-js.git
+https://github.com/andresflorez1234/Ejercicios-condicionales-js.git
