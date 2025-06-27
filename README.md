@@ -21,8 +21,23 @@ Cada archivo es independiente y aborda un escenario cotidiano diferente.
 13. [Ejercicio_13.js - Muestra día de la semana según número (1–7)](./Ejercicio_13.js)
 14. [Ejercicio_14.js - Calcula el bono docente según puntos y salario mínimo](./Ejercicio_14.js)
 15. [Ejercicio_15.js - Determina bono navideño según su antigüedad o sueldo](./Ejercicio_15.js)
-
 ---
+16. [Ejercicio_16.js - Calcula bono navideño según antigüedad y sueldo](./Ejercicio_16.js)  
+17. [Ejercicio_17.js - Determina tipo de vacuna según edad y sexo](./Ejercicio_17.js)  
+18. [Ejercicio_18.js - Calcula precio y ganancia por modelo y talla de pantalón](./Ejercicio_18.js)  
+19. [Ejercicio_19.js - Calcula saldo actual y pagos en cuenta bancaria](./Ejercicio_19.js)  
+20. [Ejercicio_20.js - Calcula salario anual del profesor con aumentos](./Ejercicio_20.js)  
+21. [Ejercicio_21.js - Calcula utilidad por venta diaria de zapatos](./Ejercicio_21.js)  
+22. [Ejercicio_22.js - Calcula nota definitiva en programación](./Ejercicio_22.js)  
+23. [Ejercicio_23.js - Calcula porcentaje de hombres y mujeres](./Ejercicio_23.js)  
+24. [Ejercicio_24.js - Calcula cuántos pinos y cedros sembrar según terreno](./Ejercicio_24.js)  
+25. [Ejercicio_25.js - Determina el mayor, medio y menor de tres números](./Ejercicio_25.js)  
+26. [Ejercicio_26.js - Muestra mes en letras y signo zodiacal según número](./Ejercicio_26.js)  
+27. [Ejercicio_27.js - Calcula edad en años, meses y días desde fecha de nacimiento](./Ejercicio_27.js)  
+28. [Ejercicio_28.js - Calcula nota final de lógica e indica si aprobó](./Ejercicio_28.js)  
+29. [Ejercicio_29.js - Calculadora básica según operación ingresada](./Ejercicio_29.js)  
+30. [Ejercicio_30.js - Calcula precio total de huevos con descuento por cantidad](./Ejercicio_30.js)
+
 
 ## 🚀 ¿Cómo usar?
 
